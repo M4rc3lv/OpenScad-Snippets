@@ -1,0 +1,35 @@
+.logo {
+ display:inline-block;
+ padding-top:8px;
+ padding-bottom:8px;
+}
+td {
+ padding:0!important;
+}
+td div {
+ border-top: solid 1px rgb(219, 219, 219);
+ padding-left:8px;
+ padding-right:8px;
+}
+.spacer {
+ height:16px!important;
+}
+.right{
+ float:right;
+}
+.rightBox{
+ float:right;
+ display:inline-block;
+ font-size:0.8em;
+ padding-top:calc(66px - 1.6em);
+}
+.Info {
+ overflow:hidden;
+ position:absolute;
+ z-index:10;
+ width:100%;
+ background:darkgreen;
+ color:white;
+ padding-left:4px;
+ border-radius:2px;
+}
